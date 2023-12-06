@@ -5,12 +5,11 @@ I'm Supraja Sri R B, currently pursuing the final year of BE (CSE) at Dr. N.G.P.
 ### 💼 What I Do
 
 - 👨‍💻 Intern - Full Stack Developer at 5C Network, gaining hands-on experience while completing my degree.
-- 🚀 Working with React, Redux, TypeScript, PostgreSQL, Ant Design (Antd), and Prisma.
+- 🚀 Working with React, Redux, TypeScript, Ant Design (Antd).
 
 ### 🛠️ Tech Stack
 
 - 💻 React, Redux, TypeScript for frontend development.
-- 🛢️ PostgreSQL and Prisma for efficient data management.
 - 🌐 Ant Design (Antd) for building sleek and responsive UIs.
 
 ### 🌱 Learning & Growing
