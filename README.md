@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @suprajasribalaji pursuing 3rd year CSE at Dr N.G.P.Institute of Technology, Coimbatore...
-- 👀 I’m interested in full stack web development but currently i know basics in frontend development...
-- 🌱 I’m currently learning full stack web development and practising coding in hackerrank and leetcode website...
-- 💞️ I’m looking for internship opportunity and job opportunities...
-- 📫 You can post mail to suprajasri.balaji@gmail.com...
+## 👋 Hello World! 
 
-<!---
-suprajasribalaji/suprajasribalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Supraja Sri R B, currently pursuing the final year of BE (CSE) at Dr. N.G.P. Institute of Technology, Coimbatore.
+
+### 💼 What I Do
+
+- 👨‍💻 Intern - Full Stack Developer at 5C Network, gaining hands-on experience while completing my degree.
+- 🚀 Working with React, Redux, TypeScript, PostgreSQL, Ant Design (Antd), and Prisma.
+
+### 🛠️ Tech Stack
+
+- 💻 React, Redux, TypeScript for frontend development.
+- 🛢️ PostgreSQL and Prisma for efficient data management.
+- 🌐 Ant Design (Antd) for building sleek and responsive UIs.
+
+### 🌱 Learning & Growing
+
+- 📚 Final year CSE student, integrating classroom knowledge into real-world projects.
+- 🎯 Striving to enhance proficiency in React, Redux, and exploring new technologies.
+
+### 🤝 Let's Connect
+
+- 📫 Reach me at [suprajasri.balaji@gmail.com].
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/suprajasrirb/).
+
+### 📖 Fun Facts
+
+- 🎵 Enjoying coding challenges and problem-solving.
+- 📷 Exploring music in my free time.
+
+Feel free to check out my repositories, and let's connect to collaborate on exciting projects!
