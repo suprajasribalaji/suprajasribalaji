@@ -1,6 +1,15 @@
 # 💫 About Me:
-CSE graduate in April 2024<br>I'm open to colloborate to making websites using mern stack<br> I'm currently learning the security mechanisms of website
+👨‍🎓 CSE Graduate - April 2024
 
+💼 Full Stack Developer Intern - 7 months at 5C Network (MERN Stack)
+
+🔐 Currently Learning - Website Security Mechanisms
+
+📱 Future Plans - Simultaneously creating mobile and web apps
+
+🤝 Open to Collaborate - Let's create amazing websites together!
+
+💻 Tech Stack - Check out the tech stacks I know below!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suprajasrirb/) 
